@@ -1,0 +1,9 @@
+1- Kodu kullanmadan önce xpath leri kendi browser ve hesabınızdaki xpathlerle değiştirmeyi unutmayın!
+
+2- Kodun çalışma şekli belirlediğiniz bir hesabın takipçilerine girer ve otomatik takip eder.
+
+3- Hesabınızın engel yememesi için hesbaı gizli kullanıcılara istek attıktan sonra takibi bırakır.
+
+4- Gizli hesaplarada istek atmak isterseniz kodu değiştirebilirsniz.
+
+5- Chrome driver uygulamasını silmeyin bu sizin tarayıcıya giriş yapmanızı sağlar.
